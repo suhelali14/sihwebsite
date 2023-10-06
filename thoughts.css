@@ -1,0 +1,21 @@
+input:focus{
+    outline: none;
+}
+div.right_side_bar1{
+    position: fixed;
+    right: 10px;
+    top: 10px;
+}
+div.right_side_bar2{
+    position: fixed;
+    right: 10px;
+    top: 55%;
+}
+.left_sidebar{
+    position: sticky;
+    top: 0px;
+    height: fit-content;
+}
+.para{
+    cursor: pointer;
+}
